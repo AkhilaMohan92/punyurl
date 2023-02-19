@@ -6,7 +6,7 @@ Installation
 
 •	Python: This application was developed using python 3.10.2 in pycharm IDE. Please install preferably the same version. 
 
-•	Change to directory containing requirements.txt and activate virtualenv using command and install the python packages mentioned in it using the below command: 
+•	Change to directory containing requirements.txt and install the python packages mentioned in it using the below command: 
 pip install -r requirements.txt
 
 •	 The database used is sqlite which is by default supported by python and Django. 
